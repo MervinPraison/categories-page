@@ -1,0 +1,18 @@
+# SVN directories
+.svn/
+
+# macOS
+.DS_Store
+._*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache

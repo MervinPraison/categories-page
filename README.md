@@ -242,4 +242,12 @@ If you find this plugin useful, please consider:
 
 ---
 
+## 📅 Plugin History
+
+**Original Release Date:** November 19, 2015  
+**First Published:** WordPress.org Plugin Directory  
+**Total Years Active:** 9+ years
+
+---
+
 **Made with ❤️ for the WordPress community**

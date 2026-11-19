@@ -6,8 +6,9 @@ site:
   title: Categories Page
   ui: shadcn
   theme:
-    preset: green
-    darkMode: true
+    preset: paper
+    radius: md
+    mode: system
   description: Display all WordPress categories in a sortable table
 seo:
   siteUrl: https://mervinpraison.github.io/categories-page

@@ -1,3 +1,18 @@
+---
+layout: home
+title: Categories Page
+description: Display all WordPress categories in a sortable table
+hero:
+  name: Categories Page
+  text: Categories Page
+  tagline: Display all WordPress categories in a sortable table
+  actions:
+  - text: Quick start
+    link: getting-started/installation.md
+  - text: View on GitHub
+    link: https://github.com/MervinPraison/categories-page
+    theme: alt
+---
 # Categories Page
 
 Display all WordPress categories in a sortable table.
